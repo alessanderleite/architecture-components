@@ -10,7 +10,7 @@ import android.widget.EditText;
 import android.widget.NumberPicker;
 import android.widget.Toast;
 
-public class AddNoteActivity extends AppCompatActivity {
+public class AddEditNoteActivity extends AppCompatActivity {
     public static final String EXTRA_TITLE =
             "com.example.alessander.architecturecomponents.EXTRA_TITLE";
     public static final String EXTRA_DESCRIPTION =
